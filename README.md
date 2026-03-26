@@ -25,9 +25,8 @@ Feel free to connect with me, I'm looking forward! ✨
 ---
 
 # 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=MohsinMullick&theme=aura&hide_border=true&include_all_commits=false&count_private=false)  
-![](https://nirzak-streak-stats.vercel.app/?user=MohsinMullick&theme=aura&hide_border=true)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MohsinMullick&theme=aura&hide_border=true&include_all_commits=false&layout=compact)  
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=MohsinMullick&theme=dark)
 
 ---
 
