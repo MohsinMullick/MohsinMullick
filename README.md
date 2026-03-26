@@ -25,13 +25,8 @@ Feel free to connect with me, I'm looking forward! ✨
 ---
 
 # 📊 GitHub Stats
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=MohsinMullick&theme=dark)
-
----
-
-## 🔥 GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com/?user=MohsinMullick&theme=dark)
+![](https://github-readme-stats.vercel.app/api?username=MohsinMullick&theme=aura&hide_border=true&include_all_commits=false&count_private=false)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MohsinMullick&theme=aura&hide_border=true&include_all_commits=false&layout=compact)  
 
 ---
 
