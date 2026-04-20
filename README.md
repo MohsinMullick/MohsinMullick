@@ -1,10 +1,10 @@
 # 💫 About Me
-Hi, I am **Mohsin Mullik** 👋  
-🎓 CSE Student at North South University  
-💡 Passionate about Python, Databases, and Web Development  
-🚀 Interested in building innovative projects and solving real-world problems  
+Hi, I am Mohsin Mullik.  
+Current student in Computer Science and Engineering (CSE) at North South University.  
+I have strong interest in Python development, databases, and web technologies.  
+I am passionate about building innovative projects and problem-solving.  
 
-✨ Currently working on an **Augmented Reality (AR) based learning application** for Biology education.
+Feel free to connect with me, I'm looking forward! ✨
 
 ---
 
@@ -26,17 +26,7 @@ Hi, I am **Mohsin Mullik** 👋
 
 # 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=MohsinMullick&theme=aura&hide_border=true&include_all_commits=false&count_private=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MohsinMullick&theme=aura&hide_border=true&layout=compact)
-
----
-
-# 🔥 GitHub Streak
-![](https://streak-stats.demolab.com?user=MohsinMullick&theme=radical&hide_border=true)
-
----
-
-# 📈 Activity Graph
-![](https://github-readme-activity-graph.vercel.app/graph?username=MohsinMullick&theme=react-dark&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MohsinMullick&theme=aura&hide_border=true&include_all_commits=false&layout=compact)  
 
 ---
 
@@ -57,4 +47,4 @@ Hi, I am **Mohsin Mullik** 👋
 
 [![](https://visitcount.itsvg.in/api?id=MohsinMullick&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly customized -->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
