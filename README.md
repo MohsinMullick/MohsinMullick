@@ -1,10 +1,8 @@
 # 💫 About Me
 Hi, I am Mohsin Mullik.  
-Current student in Computer Science and Engineering (CSE) at North South University.  
-I have strong interest in Python development, databases, and web technologies.  
-I am passionate about building innovative projects and problem-solving.  
-
-Feel free to connect with me, I'm looking forward! ✨
+I am a Computer Science student at North South University 
+with a strong interest in Artificial Intelligence, Machine Learning, and Data Science. 
+I enjoy building projects, solving real-world problems, and continuously improving my technical skills.
 
 ---
 
