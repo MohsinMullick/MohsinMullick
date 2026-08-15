@@ -1,284 +1,105 @@
-# 💫 About Me
-
-Hi, I am *Mohsin Mullik* 👋
-
-I am a Computer Science student at *North South University* with a strong interest in *Artificial Intelligence, Machine Learning, and Data Science*.
-
-I enjoy building projects, solving real-world problems, conducting research, and continuously improving my technical skills.
-
-- 🔭 Currently working on AI/ML & Research Projects
-- 🌱 Learning Machine Learning, Deep Learning, LLMs & RAG
-- 🧠 Interested in Artificial Intelligence & Data Science
-- 🔬 Interested in Research & Publication
-- 💻 Love building real-world projects
-- 🚀 Goal: Become an AI/ML Engineer
-
+<h1 align="center">Hi, I'm Mohsin Mullick 👋</h1>
+<p align="center"><i>"Bridging Bangla NLP research with real-world AI systems, one project at a time."</i></p>
 
 ---
 
-# 🌐 Connect With Me
+I am a **Computer Science / ECE** student at **North South University (NSU), Dhaka**, with a strong focus on **AI, Machine Learning, and Bangla Natural Language Processing**. Alongside coursework, I actively build research projects, freelance on Fiverr, and prepare a strong technical portfolio for **UK Master's applications**.
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/19GwnFodSs)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohsin.mullik@northsouth.edu)
-
+🎯 **Goal:** Publish research in Q1 venues, strengthen my GitHub portfolio, and pursue an AI/ML Master's degree in the UK.
 
 ---
 
-# 💻 Tech Stack
+## 🛠️ Tech Stack
 
-### 👨‍💻 Programming Languages
+**Languages**
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-
-
-### 🤖 AI / Machine Learning
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+**AI / ML**
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/🤗%20HuggingFace-FFD21E?style=for-the-badge)
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+![GPT--4o](https://img.shields.io/badge/GPT--4o-412991?style=for-the-badge&logo=openai&logoColor=white)
 
+**Web & Database**
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 🧠 AI / LLM
-
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-
-
-### 🌐 Web Development
-
-![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-
-### 🗄️ Database & Tools
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white)
-
+**Tools**
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Overleaf](https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=overleaf&logoColor=white)
 
 ---
 
-# 🔥 GitHub Streak
+## 📁 Research & Project Portfolio
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=MohsinMullick&theme=radical&hide_border=true)](https://git.io/streak-stats)
-
-
----
-
-# 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=MohsinMullick&theme=aura&hide_border=true&include_all_commits=false&count_private=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MohsinMullick&theme=aura&hide_border=true&include_all_commits=false&layout=compact)
-
+| # | Project | Skills | Status |
+|---|---------|--------|--------|
+| 01 | **AgentNER** — 4-agent GPT-4o Bangla Medical NER system | GPT-4o · Confidence Thresholding · MedEx dataset | 🟣 Targeting ACM TALLIP (Q1) |
+| 02 | **EasyBio AR** — Unity/Vuforia AR app for biology education | Unity · Vuforia · Quasi-experimental study (N=15) | 🔵 IEEE ISMAR 2026 / ICETC 2026 |
+| 03 | **EAHC-AVM** — Conformal prediction for automated property valuation | Python · ML · Conformal Prediction | ✅ Submitted to ESWA (Elsevier) |
+| 04 | **Dak Dao** — QR-tag lost & found system for Bangladesh | Django · PostgreSQL · SSLCommerz · OTP Auth | ✅ Live (Deployed on Render) |
+| 05 | **CNN Image Colorization** — U-Net + CBAM on Oxford Flowers | PyTorch · U-Net · CBAM · LAB color space | ✅ Completed |
+| 06 | **FoodShare** — Database systems team project | SQL · ER/EER modeling · MySQL/XAMPP | ✅ Completed |
+| 07 | **Bangla E-Commerce Chatbot Dataset** | Data curation · 6 product categories | 🟡 In Progress |
 
 ---
 
-# 📈 GitHub Contribution Graph
-
-[![Mohsin's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MohsinMullick&theme=react-dark&hide_border=true)](https://github.com/MohsinMullick)
-
-
----
-
-# 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=MohsinMullick&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-
----
-
-# 📅 GitHub Contribution Calendar
-
-![GitHub Contribution Calendar](https://ghchart.rshah.org/MohsinMullick)
-
-
----
-
-# ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-
----
-
-# 🔝 Top Contributed Repositories
-
-![](https://github-contributor-stats.vercel.app/api?username=MohsinMullick&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-
----
-
-# 👀 Profile Visitors
-
-[![](https://visitcount.itsvg.in/api?id=MohsinMullick&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
----
-
-## 🚀 My Goals
-
-- 🤖 Become an AI/ML Engineer
-- 🔬 Publish high-quality research papers
-- 🧠 Build impactful AI systems
-- 🌍 Contribute to open-source projects
-- 📚 Continuously learn new technologies
-- 💡 Solve real-world problems with AI
-
-
----
-
-### ⭐ Thanks for visiting my profile!
-
-*Let's build something amazing with AI! 🤖🚀*
-# 💫 About Me
-
-Hi, I am *Mohsin Mullik* 👋
-
-I am a Computer Science student at *North South University* with a strong interest in *Artificial Intelligence, Machine Learning, and Data Science*.
-
-I enjoy building projects, solving real-world problems, conducting research, and continuously improving my technical skills.
-
-- 🔭 Currently working on AI/ML & Research Projects
-- 🌱 Learning Machine Learning, Deep Learning, LLMs & RAG
-- 🧠 Interested in Artificial Intelligence & Data Science
-- 🔬 Interested in Research & Publication
-- 💻 Love building real-world projects
-- 🚀 Goal: Become an AI/ML Engineer
-
-
----
-
-# 🌐 Connect With Me
-
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/19GwnFodSs)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohsin.mullik@northsouth.edu)
-
-
----
-
-# 💻 Tech Stack
-
-### 👨‍💻 Programming Languages
-
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-
-
-### 🤖 AI / Machine Learning
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-
-### 🧠 AI / LLM
-
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-
-
-### 🌐 Web Development
-
-![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-
-### 🗄️ Database & Tools
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white)
-
-
----
-
-# 🔥 GitHub Streak
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=MohsinMullick&theme=radical&hide_border=true)](https://git.io/streak-stats)
-
-
----
-
-# 📊 GitHub Statistics
+## ⚡ GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohsinMullick&theme=aura&hide_border=true&include_all_commits=false&count_private=false)
-
-
-### 💻 Most Used Languages
+![GitHub Streak](https://streak-stats.demolab.com?user=MohsinMullick&theme=radical&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MohsinMullick&theme=aura&hide_border=true&include_all_commits=false&layout=compact)
 
+---
+
+## 📊 3D Contribution Graph
+
+![3D Contribution Graph](https://raw.githubusercontent.com/MohsinMullick/MohsinMullick/output/github-contribution-grid-snake-dark.svg)
+
+![3D Contribution Calendar](https://github-profile-3d-contrib.vercel.app/?username=MohsinMullick&theme=github_dark)
 
 ---
 
-# 📈 GitHub Contribution Activity
+## 🏆 GitHub Trophies
 
-[![Mohsin's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MohsinMullick&theme=react-dark&hide_border=true)](https://github.com/MohsinMullick)
-
-
----
-
-# 📅 Contribution Calendar
-
-![GitHub Contribution Calendar](https://ghchart.rshah.org/MohsinMullick)
-
+![](https://github-profile-trophy.vercel.app/?username=MohsinMullick&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
-# 🏆 GitHub Trophies
+### ✍️ Random Dev Quote
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=MohsinMullick&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-
----
-
-# ✍️ Random Dev Quote
-
-![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 
-# 🔝 Top Contributed Repositories
+### 🔝 Top Contributed Repo
 
-![Top Contributed Repositories](https://github-contributor-stats.vercel.app/api?username=MohsinMullick&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-
----
-
-# 🚀 My Goals
-
-- 🤖 Become an AI/ML Engineer
-- 🔬 Publish high-quality research papers
-- 🧠 Build impactful AI systems
-- 🌍 Contribute to open-source projects
-- 📚 Continuously learn new technologies
-- 💡 Solve real-world problems with AI
-
+![](https://github-contributor-stats.vercel.app/api?username=MohsinMullick&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 
-# 👀 Profile Visitors
+## 🤝 Connect With Me
 
-[![](https://visitcount.itsvg.in/api?id=MohsinMullick&icon=0&color=0)](https://visitcount.itsvg.in)
-
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohsin.mullik@northsouth.edu)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/19GwnFodSs)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/MohsinMullick)
+[![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=flat&logo=fiverr&logoColor=white)](https://www.fiverr.com/mohsinmullick66)
 
 ---
 
-### ⭐ Thanks for visiting my profile!
+<p align="center">
+📍 Dhaka, Bangladesh · North South University · BSc in Computer Science / ECE<br><br>
+<i>"Small consistent steps in research and code lead to the biggest breakthroughs."</i>
+</p>
 
-*Let's build something amazing with AI! 🤖🚀*
-FACEBOOK
+<p align="center">
+<a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=MohsinMullick&icon=0&color=0"></a>
+</p>
