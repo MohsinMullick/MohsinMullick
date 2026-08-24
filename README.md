@@ -22,9 +22,9 @@ I enjoy building projects, solving real-world problems, and continuously improvi
 
 <img width="45%" src="https://github-readme-stats.vercel.app/api?username=MohsinMullick&show_icons=true&theme=aura&hide_border=true&include_all_commits=true&count_private=true" />
 
-<img width="45%" src="https://streak-stats.demolab.com/?user=MohsinMullick&theme=aura&hide_border=true" />
+<img width="45%" src="https://streak-stats.demolab.com/?user=MohsinMullick&count_private=true&theme=aura&hide_border=true" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohsinMullick&theme=aura&hide_border=true&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohsinMullick&theme=aura&hide_border=true&layout=compact&count_private=true" />
 
 ---
 
