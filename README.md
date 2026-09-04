@@ -34,3 +34,4 @@ I enjoy building projects, solving real-world problems, and continuously improvi
  ## 🔥 GitHub Streak
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MohsinMullick&theme=radical&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api?username=MohsinMullick&theme=aura&hide_border=true&include_all_commits=false&count_private=false&show_icons=true&rank_icon=github)
+![](https://github-readme-stats.vercel.app/api?username=MohsinMullick&theme=aura&hide_border=true&include_all_commits=false&count_private=false&show_icons=true&rank_icon=github)
