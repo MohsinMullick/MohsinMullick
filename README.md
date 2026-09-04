@@ -31,4 +31,5 @@ I enjoy building projects, solving real-world problems, and continuously improvi
 ---
 [![](https://visitcount.itsvg.in/api?id=MohsinMullick&icon=0&color=0)](https://visitcount.itsvg.in) 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --------> 
- ami amr profile ar  aie state ta dekhte chaie full code dau ami just past korbo o
+ ## 🔥 GitHub Streak
+![](https://github-readme-streak-stats.herokuapp.com/?user=MohsinMullick&theme=radical&hide_border=true)
